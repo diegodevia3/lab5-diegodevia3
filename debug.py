@@ -13,7 +13,6 @@ y = int(input("Enter a number:\n"))
 z = int(input("Enter a number:\n"))
 #FREEZE CODE END
 
+maximum = find_max(x, y)
 print("Maximum value:", maximum)
-
-
 
